@@ -26,7 +26,7 @@
 
 ## About 
 
-- 📚 I like to studies now tecnologies
+- 📚 I like to studies new tecnologies
 - ❤️ In loke with Javascript
 - 🎵 I love play guitar  
 
